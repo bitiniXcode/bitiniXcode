@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm [LamBitini](https://github.com/bitiniXcode) from VN, and I look forward to learning the latest programming technologies.
+
 <!--
 **bitiniXcode/bitiniXcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
